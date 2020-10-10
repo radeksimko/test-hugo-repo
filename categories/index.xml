@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Twenty Twenty Hugo for Forestry</title>
-    <link>/categories/</link>
+    <link>/test-hugo-repo/categories/</link>
     <description>Recent content in Categories on Twenty Twenty Hugo for Forestry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="/test-hugo-repo/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>lifestyle</title>
-      <link>/categories/lifestyle/</link>
+      <link>/test-hugo-repo/categories/lifestyle/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>/categories/lifestyle/</guid>
+      <guid>/test-hugo-repo/categories/lifestyle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>operations</title>
-      <link>/categories/operations/</link>
+      <link>/test-hugo-repo/categories/operations/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>/categories/operations/</guid>
+      <guid>/test-hugo-repo/categories/operations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tour</title>
-      <link>/categories/tour/</link>
+      <link>/test-hugo-repo/categories/tour/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>/categories/tour/</guid>
+      <guid>/test-hugo-repo/categories/tour/</guid>
       <description></description>
     </item>
     

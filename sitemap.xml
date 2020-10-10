@@ -3,99 +3,99 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/author/admin/</loc>
+    <loc>/test-hugo-repo/author/admin/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/</loc>
+    <loc>/test-hugo-repo/author/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>/test-hugo-repo/blog/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/test-hugo-repo/categories/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/fashion/</loc>
+    <loc>/test-hugo-repo/tags/fashion/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/post-4/</loc>
+    <loc>/test-hugo-repo/blog/post-4/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/lifestyle/</loc>
+    <loc>/test-hugo-repo/tags/lifestyle/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/lifestyle/</loc>
+    <loc>/test-hugo-repo/categories/lifestyle/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/operations/</loc>
+    <loc>/test-hugo-repo/categories/operations/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/test-hugo-repo/tags/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/post-3/</loc>
+    <loc>/test-hugo-repo/blog/post-3/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/post-2/</loc>
+    <loc>/test-hugo-repo/blog/post-2/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/tour/</loc>
+    <loc>/test-hugo-repo/tags/tour/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/tour/</loc>
+    <loc>/test-hugo-repo/categories/tour/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/test-hugo-repo/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/visit/</loc>
+    <loc>/test-hugo-repo/tags/visit/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/test-hugo-repo/about/</loc>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>/test-hugo-repo/contact/</loc>
   </url>
   
   <url>
-    <loc>/sample-page/</loc>
+    <loc>/test-hugo-repo/sample-page/</loc>
   </url>
   
   <url>
-    <loc>/search/</loc>
+    <loc>/test-hugo-repo/search/</loc>
   </url>
   
 </urlset>
